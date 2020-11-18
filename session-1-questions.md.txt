@@ -1,0 +1,3 @@
+1. Why have you decided to learn Git and GitHub?  It's important for my teaching.
+
+2. How do you plan to use GitHub in your classroom?  Team work!
